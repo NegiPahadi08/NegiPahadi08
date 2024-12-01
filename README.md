@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hi 👋, I'm Harshit</h1>
+<h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">I'm a Full Stack Web Developer & iOS Developer!</h3>
 
 <p align="space-around"> <img
