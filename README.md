@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 - 🐋 Docker
 <!-- - 💭 Pronouns: he/him -->
 - 📫 E-mail: [negirahul87918@gmail.com](mailto:negirahul87918@gmail.com)
-- 💬 Telegram: [@21BCS2904_RahulSinghNegi](https://t.me/Mrharshit02)
+- 💬 Telegram: [@21BCS2904_RahulSinghNegi](https://t.me/Rahul_20022)
 
 <br>
 
